@@ -450,6 +450,7 @@ ga-beacon
 getvero.s3.amazonaws.com/uploads/*.jpg
 getvero.s3.amazonaws.com/uploads/*.js
 gigya
+github/page_view
 globes.co.il/*/Globes_Chrome_PopUp_tr.png
 globes.co.il/Images/NewGlobes/Misc_2/2016/300x50_B.jpg
 globes.co.il/shared

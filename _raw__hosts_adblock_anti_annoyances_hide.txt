@@ -31,6 +31,7 @@ ajaxload.info##[id^="advert"]
 analytics.google.com##[id*="announcementNotification"]
 android.co.il##.postprofile, .profile-icons, .signature, [href*="/stores"], [id*="sig"], [src*="download/file.php?avatar"], dl[id^="profile"]
 androidauthority.com##.aa_socs_total
+androidbiits.com##noscript
 androidfilehost.com##.search > .container > .row > .col-md-2, .systemnotice, [action*="membership"], [id*="we-offer"], [src*="membership"], a[href*="membership"], div[class*="ourblog"], noscript, section[class*="total-value"]
 apkmirror.com##.advertisement-text, .downloadCountdown, .google-ad-leaderboard-smaller, .google-ad-square-sidebar, .gooWidget, [src*="sadkitten.png"]
 archive.org##[class*=donate"]
@@ -53,6 +54,7 @@ dx.com##.logo [src*=".gif"], .logo [src*=".swf"], [class*="live_chat"], [class*=
 ebay.co.uk,ebay.com##.browse-link, .footer > .handler, .sbanner, [class*="mrecad"], [class*="sponser"], [class*="survey"], [class$="-ads"], [href*="/share"], [id*="gh-doodle"], [id*="mainContent"] > .ad, [id*="MessageContainer"], [id*="mrecs-ads"], [id*="myveh"], [id*="nume_html_"], [id*="promotion"], [id*="scandal"], [id*="user-feedback"], [id^="AnswersModule"], [id^="ListViewInner"] > .answers, [id^="MessageContainer"], [id$="-ads"], [id$="ads"], [id$="orders"] > .ajax-wrap > .container-footer, [title*="ADVERTISEMENT"], a[href][id$="-bt"], a[href*="qu.ebay.com/survey"], div.frame:not([src*="sandbox"]), div[id*="my-ebay"] div.topRtm, div[id^="pd-container"], div[id^="pd-overlay"], div[id^="pushdownAdFragment"], img[alt*="support"], img[alt*="Support"], img[src*="/btt.png"], img[title*="scroll to"]
 ebaydesc.com##.dc-cs.cs-top, [class*="ads"], [class*="mega-showcase"], [class*="sponser"], [id*="ransform"][id*="iew"]
 ehow.com##.media-list, [class*="PopularSearches"], [class*="relatedContent"], [class*="youMayAlsoLike"], [class*="zergnet"], [id*="Footer"], [id*="relatedContent"], [id*="youMayAlsoLike"], [id*="zergnet"], [share-buttons-uninitialized]
+entrust.com##.no-js-alert, noscript
 epiclaunch.com##[class*="tve-leads"], [id*="tve_editor"]
 express.co.uk##.galleryShell, .htmlappend, .mainFooter, .related-articles, .right-column, [class*="carousel"], [class*="related"], [id*="carousel"], [id*="related"], [id^="componentDiv"], [id^="header_addons"], [id^="mainFooter"], [id^="superbanner"], h2
 extratorrent.cc##.bbcode_center, .tztbl, .tztblsearch, [class^="tabledata"], [href*="watch.gif"], [id*="arket"], table[style]:first-child, tr:nth-of-type(3) > td > table > tbody > tr > td:nth-of-type(2) > div:nth-of-type(1)
@@ -105,7 +107,7 @@ masterkreatif.com##[id*="fbox"]
 merriam-webster.com##.follow-us, .social-sidebar, [class*="-top-"], [class*="bar-foot"], [class^="abl "], [class^="ad-"]
 metro.co.uk##.sidebar
 metrolyrics.com##a.related
-microsoft.com##.noscript-desc, .privacy-notice, [class*="-feedback"], [class*="slideshow"], [id*="-footer"], [id*="header-wrapper"], [id*="nav-wrapper"], [id*="rightColumn"], [id*="slideshow"], [id*="standardRating"], [id^="mainSection"] > p:nth-last-child(1), [id^="mainSection"] > p:nth-last-child(2), [id$="rating"], [id$="Rating"]
+microsoft.com##.noscript-desc, .privacy-notice, [class*="-feedback"], [class*="slideshow"], [id*="-footer"], [id*="header-wrapper"], [id*="nav-wrapper"], [id*="rightColumn"], [id*="slideshow"], [id*="standardRating"], [id^="mainSection"] > p:nth-last-child(1), [id^="mainSection"] > p:nth-last-child(2), [id$="rating"], [id$="Rating"], noscript
 microsoft.com/en-us/download##.CSPvNext > .no-margin-row.row-fluid:nth-of-type(2) > .sortable-control.bp1-clear.bp1-col-3-3.bp2-clear.bp2-col-6-6.bp3-col-12-3, .shell-footer, [id^="hp-feedback"], [id^="slide-"], body > .row-fluid:nth-of-type(3), body > .row-fluid:nth-of-type(5) > .bp3-col-1-1.bp2-col-1-1.bp1-col-1-1.bp0-col-1-1
 mirrorcreator.com##[id$="cloudup"], [id$="depositfiles"], [id$="dropbox"], [id$="filefactory"], [id$="fourshared"], [id$="lolabits"], [id$="oboom"], [id$="rapidgator"], [id$="twoshared"], [id$="uploadednet"], [id$="ziddu"], a[href*="href="dropjiffy"], div.banner, div.featured, div.highlight.term, div.info, div.infodisplay, div.shadow, div.userinfo
 mizbala.com##.author-box, [class*="essb"], [class*="sidebar"], [id^="back-top"], [id^="expim"], [id^="job"]
@@ -155,6 +157,7 @@ submityourflicks.com##aside[id*="aff-aside"]
 subscenter.cinemast.com##[href*="/jobs"], [href*="donation"], [id*="advert"], [id$="siteWrapper"] > div:nth-of-type(2), a[onclick*="facebook"]
 support.google.com##.hs-enabled.hs
 tapuz.co.il##.banner, .popup-kidum, [class*="flix"], [class*="popup"], [id*="flix"]
+tbs-certificates.co.uk##[id^="bandeau_"]
 techbrown.com##[class*="-ads"], [class*="entry-bottom"], [id^="footer"], [id^="secondary"]
 techsupportalert.com##.sharethis-buttons, div[class*="region-page-bottom"], div[class*="region-sidebar"]
 techtools.me##.has-avatar, .has-profile-rank, .page-body-inner > center, [class^="avatar"], [id^="sig"]

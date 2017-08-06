@@ -17,7 +17,6 @@
 .mx/
 .nz/
 .online/
-.pl/
 .pro/
 .tech/
 .tk/

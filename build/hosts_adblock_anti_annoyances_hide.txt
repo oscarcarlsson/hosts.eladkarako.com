@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Expires:        14 days
-! Last modified:  2017-08-01T15:18:18.000Z+00:00 UTC
-! Version:        20170801151818000
+! Last modified:  2017-08-06T06:20:49.000Z+00:00 UTC
+! Version:        20170806062049000
 ! Title:          HOSTS AdBlock - Anti-Annoyance - Hide Annoying Elements
 ! Rules:          203
 ! Homepage:       http://hosts.eladkarako.com/

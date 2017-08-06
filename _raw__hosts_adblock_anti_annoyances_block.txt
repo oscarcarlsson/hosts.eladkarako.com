@@ -266,6 +266,7 @@
 /wait
 /walla/minisite
 /webanalytics
+/webtrends.js
 /whatsapp-button.js
 /whatsapp-button.min.js
 /widget.js
